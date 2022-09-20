@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# note redux
+
+.1 -Store lưu trử tất cả các state ở trong ứng dụng
+-Trong store bao gồm rất nhiều reducer
+
+## // REDUCERS
+
+-Là 1 function
+// ACTION
+
+// DISPATCH
